@@ -1,0 +1,11 @@
+
+  // call async GET
+  getData(baseURL, zip, key, newDate, feelings)
+  // if i just Update this code .then to arrow function without console.log 
+  // update function not working can you help me why ?!! 
+  // i don't understant it properly ??!!!
+    .then(data => {
+      console.log('LOL', data)
+      postData('/postData', data)})
+    .then(() => updateUI())
+})
