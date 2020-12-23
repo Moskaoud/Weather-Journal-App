@@ -1,7 +1,7 @@
 # Weather Journal
 
 ## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. combine data from the OpenWeatherMap API and client side (browser) HTML forms, to create a web app that records a weather journal for users.
+using Node.js and Express.js to create an asynchronous web app that uses Web API and user data to dynamically update the UI. combine data from the OpenWeatherMap API and client side (browser) HTML forms, to create a web app that records a weather journal for users.
 
 ## Instructions
 This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
